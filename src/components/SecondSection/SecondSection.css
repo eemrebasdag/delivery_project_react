@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.second_container{
+    height: 90vh;
+    padding:100px 0 0 0;
+
+}
+.second_main{
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.second_txt{
+    margin-left: 4rem;
+}
+
+.second_txt h1{
+    font-size: 5rem;
+    text-align: left;
+}
+
+.second_txt p{
+    font-size: 2rem;
+    text-align: left;
+}
+
+.btn{
+    display: flex;
+    margin-top: 2rem;
+    padding: 1rem 1.5rem 1rem 1.5rem;
+    font-size: 2rem;
+    background-color: #FDC212;
+    border: none;
+    border-radius: 3rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: white;
+}
+
+.img{
+    width:50rem;
+    height: 30rem;
+    margin-right: 4rem;
+}

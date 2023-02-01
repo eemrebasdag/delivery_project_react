@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.third_container{
+    height: 100vh;
+}
+
+.third_main{
+    margin: 0 auto;
+    padding:0 0 100px 0;
+    width: 90%;
+}
+
+.row_first{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5rem 5rem 5rem;
+
+}
+
+.row_second{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    padding: 0 5rem 0 5rem;
+}
+
+.rSecond_txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.third_image{
+    width: 30rem;
+    height: 20rem;
+}
+
+
+.rSecond_txt,.rFirst_txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    
+}
+
+.rSecond_txt h1,.rFirst_txt h1{
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.rSecond_txt p,.rFirst_txt p{
+    font-size: 1.5rem;
+}

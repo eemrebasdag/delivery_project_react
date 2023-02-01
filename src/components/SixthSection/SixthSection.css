@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sixth_container{
+    height: 50vh;
+}
+
+.sixth_main{
+    margin: 0 auto;
+    padding:20vh 0 20vh 0;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact{
+ text-align: left;   
+}
+
+.contact h1{
+    font-weight: 500;
+    font-size: 3rem;
+}
+
+.contact p{
+    font-weight: 300;
+    font-size: 2rem;
+    padding-top: 3vh;
+}
+
+.info_text{
+    font-weight: 300;
+    text-align: left;
+    font-size: 2rem;
+}
+
+.info_type{
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.button{
+    padding: 2vh 3vh 2vh 3vh;
+    font-size: 2rem;
+    font-weight: 700;
+    border: none;
+    background-color:#FDC212;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
