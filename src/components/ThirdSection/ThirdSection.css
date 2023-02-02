@@ -55,5 +55,6 @@
 }
 
 .rSecond_txt p,.rFirst_txt p{
+    font-weight: 300;
     font-size: 1.5rem;
 }

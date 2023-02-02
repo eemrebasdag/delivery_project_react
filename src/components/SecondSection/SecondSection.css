@@ -27,6 +27,7 @@
 }
 
 .second_txt p{
+    font-weight: 300;
     font-size: 2rem;
     text-align: left;
 }

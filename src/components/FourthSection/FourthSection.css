@@ -32,7 +32,8 @@
 
 .fourth_rectangle h2{
     padding-bottom: 2vh;
-    font-weight: 400;
+    font-weight:700;
+    font-size: 1.7rem;
 }
 
 .fourth_rectangle img{
@@ -41,6 +42,7 @@
 }
 
 .fourth_rectangle p{
+    font-weight: 300;
     font-size: 1.5rem;
     padding-bottom: 2vh;
 }
