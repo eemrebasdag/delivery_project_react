@@ -35,8 +35,9 @@
 .btn{
     display: flex;
     margin-top: 2rem;
-    padding: 1rem 1.5rem 1rem 1.5rem;
+    padding: 1.5rem 2rem 1.5rem 2rem;
     font-size: 2rem;
+    font-weight: 500;
     background-color: #FDC212;
     border: none;
     border-radius: 3rem;
